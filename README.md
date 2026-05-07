@@ -3,7 +3,7 @@ This is a LaTeX template for project reports for NMIMS University, Mumbai campus
 
 ## Disclaimer
 
-These are the report specifications for a finar year B.Tech research project in 2026. Your specifications may vary depending on your course, academic year, type of project, etc. I recommend cross-verifying all the specifications to ensure that you comply with your guidelines.
+These are the report specifications for a final year B.Tech research project in 2026. Your specifications may vary depending on your course, academic year, type of project, etc. I recommend cross-verifying all the specifications to ensure that you comply with your guidelines.
 
 ## Details
 
