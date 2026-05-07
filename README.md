@@ -1,4 +1,4 @@
-# Project report template for LaTeX for NMIMS University
+# LaTeX Project report template for NMIMS University
 This is a LaTeX template for project reports for NMIMS University, Mumbai campus. 
 
 ## Disclaimer
